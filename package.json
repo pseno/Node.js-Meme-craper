@@ -5,11 +5,11 @@
   "license": "MIT",
   "dependencies": {
     "cheerio": "^1.0.0-rc.6",
-    "fs": "^0.0.1-security",
     "node-fetch": "^2.6.1"
   },
   "devDependencies": {
     "@types/node": "14.14.37",
+    "@types/node-fetch": "^2.5.10",
     "@types/react": "17.0.3",
     "@types/react-dom": "17.0.3",
     "@typescript-eslint/eslint-plugin": "4.21.0",
